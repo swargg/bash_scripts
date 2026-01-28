@@ -1,1 +1,3 @@
 #second_script
+#!/bin/bash
+echo "now it script"
