@@ -1,3 +1,5 @@
 #third script
 #!/bin/bash
 echo "now it is script too"
+
+echo "версия 2 третьуго скрипта"
