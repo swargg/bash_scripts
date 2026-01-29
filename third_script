@@ -1,1 +1,3 @@
-third
+#third script
+#!/bin/bash
+echo "now it is script too"
