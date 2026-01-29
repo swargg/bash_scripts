@@ -3,3 +3,6 @@
 echo "now it is script too"
 
 echo "версия 2 третьуго скрипта"
+
+echo "добавлена новая фича 1 в третий скрипт"
+version 5.0
